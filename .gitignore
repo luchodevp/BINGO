@@ -1,0 +1,6 @@
+#Ignores any files and directories
+front/
+Extractor/__pycache__
+BACT.mp3
+BalotaActual.mp3
+
